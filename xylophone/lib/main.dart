@@ -1,6 +1,11 @@
+// Xylophone App
+// by: Sherif Awofiranye
+// Github: Classified9
+
+
 import 'package:flutter/material.dart';
 import 'package:just_audio/just_audio.dart';
-//import 'package:audioplayers/audioplayers.dart';
+
 
 void main(){
   runApp(
